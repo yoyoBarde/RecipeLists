@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity
 
 import kotlinx.android.synthetic.main.recipe_activity.*
 
-class RecipeActivityActivity : AppCompatActivity() {
+class RecipeDetailsActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

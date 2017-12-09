@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="julius.barde.com.recipelist.RecipeActivityActivity"
+    tools:context="julius.barde.com.recipelist.RecipeDetailsActivity"
     tools:showIn="@layout/recipe_activity">
 
 </android.support.constraint.ConstraintLayout>
